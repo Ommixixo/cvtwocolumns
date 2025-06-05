@@ -1,130 +1,112 @@
 {
     "general": {
-        "name": "Name Surname",
-        "headline": "Short headline about yourself",
+        "name": "Del Castillo Sergio",
+        "headline": "Backend Developer",
         "about": [
-            "Hey there! 👋",
-            "This should be a first short paragraph about yourself. Tell us something about yourself, your education or your career.",
-            "And why not adding a second paragraph? Then you can tell us more about your hobbies and your life. Some people will read it and be happy to get to know you a little better."
+            "👋 Hey there! I'm Sergio Del Castillo",
+            "As a Backend Developer with more than 8 years of dedicated professional experience, I've been at the forefront of designing and implementing scalable, multi-platform software solutions. My foundational knowledge from Communications and Electronic Engineering complements my practical skills, enabling me to build efficient backend systems and manage complex database architectures, particularly leveraging Node.js. I'm committed to delivering high-quality, performant, and secure applications.",
+            "Away from development, I unwind by indulging in my passion for pizza. I believe in continuous self-improvement, embracing new challenges, and collaborating effectively within dynamic teams to achieve shared goals"
         ],
         "socials": {
-            "email": "example@mail.com",
-            "linkedin": "https://www.linkedin.com/",
-            "github": "https://github.com/"
+            "email": "delcastillopanfilo@gmail.com",
+            "linkedin": "https://www.linkedin.com/in/delcastillopanfilo/",
+            "github": "https://github.com/Ommixixo"
         }
     },
     "experiences": [
         {
-            "title": "Position Title",
-            "company": "Company Name",
-            "href": "",
+            "title": "Backend Developer",
+            "company": "SINECTA AI",
+            "href": "https://sinecta.com/",
             "startDate": "10/2023",
             "endDate": "CURRENT",
-            "description": "This is a short description of your role.",
-            "logo": "/logos/vercel-white.png",
-            "skills": ["Skill 1", "Skill 2", "Skill 3"]
+            "description": "I'm working on a project that uses Node.js, AWS, CI/CD, Next.js, and PostgreSQL. I'm also responsible for the backend development of the project.",
+            "logo": "/logos/sinectalogo.png",
+            "skills": ["Node.js", "AWS", "CI/CD", "Next.js", "PostgreSQL"]
         },
         {
-            "title": "Position Title",
-            "company": "Company Name",
-            "href": "",
-            "startDate": "01/2023",
-            "endDate": "09/2023",
-            "description": "This is a short description of your role.",
-            "logo": "/logos/vercel-white.png",
-            "skills": ["Skill 1", "Skill 2"]
+            "title": "Fullstack Developer",
+            "company": "Ibancar",
+            "href": "https://ibancar.mx/",
+            "startDate": "06/2023",
+            "endDate": "10/2023",
+            "description": "I localized the website from Spain to Mexico, adapting the Spanish translation and implementing regional payment methods for the Latin American market.",
+            "logo": "/logos/ibancar_azul.svg",
+            "skills": ["React", "Mysql", "AWS","PHP"]
         },
         {
-            "title": "Position Title",
-            "company": "Company Name",
-            "href": "",
-            "startDate": "01/2022",
-            "endDate": "12/2022",
-            "description": "This is a short description of your role.",
-            "logo": "/logos/vercel-white.png",
-            "skills": ["Skill 1"]
+            "title": "Fullstack Developer",
+            "company": "TouchesBegan",
+            "href": "https://www.touchesbegan.com/",
+            "startDate": "06/2019",
+            "endDate": "06/2023",
+            "description": "",
+            "logo": "/logos/tsch_header.svg",
+            "skills": ["PHP", "Vue.js", "AWS", "Laravel","MySQL","MongoDB"]
         },
         {
-            "title": "Position Title",
-            "company": "Company Name",
-            "href": "",
-            "startDate": "01/2021",
-            "endDate": "12/2021",
-            "description": "This is a short description of your role.",
-            "logo": "/logos/vercel-white.png",
-            "skills": ["Skill 1", "Skill 2", "Skill 3"]
+            "title": "Jr. Fullstack Developer",
+            "company": "CTIN",
+            "href": "http://www.ctinmx.com/",
+            "startDate": "06/2015",
+            "endDate": "06/2017",
+            "description": "",
+            "logo": "/logos/logo-ctin.png",
+            "skills": ["HTML", "CSS", "PHP", "Javascript"]
         }
     ],
     "education": [
         {
-            "subject": "University Subject",
-            "degree": "Master of Science",
-            "university": "University Name", 
-            "href": "",
-            "startDate": "2022", 
-            "endDate": "NOW", 
-            "description": "Short description of your degree."
+            "subject": "Communication and Electronic Engineering",
+            "degree": "Bachelor of Engineering",
+            "university": "Escuela Superior de Ingeniería Mecánica y Electrica", 
+            "href": "https://www.esimez.ipn.mx/",
+            "startDate": "2012", 
+            "endDate": "2019", 
+            "description": ""
         },
         {
-            "subject": "University Subject",
-            "degree": "Bachelor of Science",
-            "university": "University Name", 
-            "href": "",
-            "startDate": "2017", 
-            "endDate": "2020", 
-            "description": "Short description of your degree."
+            "subject": "Web Integrity Technician / Specialist",
+            "degree": "Certificate",
+            "university": "SISTEMA EDUCATIVO NACIONAL", 
+            "href": "https://www.televisioneducativa.gob.mx/",
+            "startDate": "10/2017", 
+            "endDate": "12/2017", 
+            "description": ""
         }
     ],
     "volunteering": [
         {
-            "position": "Position Name",
-            "event": "Event Name",
-            "organisation": "Organisation Name",
+            "position": "Runner Up",
+            "event": "Hackaton MasterCard Masters Of Code",
+            "organisation": "MasterCard",
             "href": "",
-            "startDate": "2022",
-            "endDate": "NOW",
-            "description": "Short description of your role at the event."
-        },
-        {
-            "position": "Position Name",
-            "event": "Event Name",
-            "organisation": "Organisation Name",
-            "href": "",
-            "startDate": "2022",
-            "endDate": "NOW",
-            "description": "Short description of your role at the event."
-        },
-        {
-            "position": "Position Name",
-            "event": "Event Name",
-            "organisation": "Organisation Name",
-            "href": "",
-            "startDate": "2022",
-            "endDate": "NOW",
-            "description": "Short description of your role at the event."
+            "startDate": "2015",
+            "endDate": "",
+            "description": ""
         }
     ],
     "projects": [
         {
-            "name": "two-column-portfolio",
-            "framework": "next.js",
-            "description": "A simple two-column portfolio template that is easy and quick to customize for your own purposes. Mobile friendly.",
-            "href": "https://github.com/karlgrossmann/two-column-portfolio",
-            "stars": "0"
+            "name": "API AURA",
+            "framework": "Node.js",
+            "description": "",
+            "href": "https://sandbox-api.agroseguros.mx/documentation",
+            "stars": "5"
         },
        {
-            "name": "example-project",
-            "framework": "javascript",
-            "description": "Short description of your project.",
-            "href": "",
-            "stars": "2,712"
+            "name": "Ibancar MX Site",
+            "framework": "Laravel, Vue.js, MySQL, AWS",
+            "description": "",
+            "href": "https://ibancar.mx/",
+            "stars": ""
        },
        {
-        "name": "example-project-2",
-        "framework": "flutter",
-        "description": "Short description of your project.",
-        "href": "",
-        "stars": "1,999"
+        "name": "Asofarma API",
+        "framework": "Laravel, Vue.js, MySQL, AWS",
+        "description": "",
+        "href": "https://capacitacionfarma.com/api/documentation",
+        "stars": ""
         } 
     ]
 }
